@@ -29,7 +29,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <Exemple />
-        <h1 className={styles.title}>Bonjour</h1> 
+        <h1 className={styles.title}>Bonjour à tous</h1> 
       </main>
     </div>
   )
